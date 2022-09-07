@@ -12,9 +12,9 @@ A way to practice and disover Nuxt Content by building a blog.
 
 ### Nuxt Content
 
-Content v2 [Content v2 documentation](https://content-v2.nuxtjs.org/)
+[Content v2 documentation](https://content-v2.nuxtjs.org/)
 
-Content [Content documentation](https://content.nuxtjs.org/)
+[Content documentation](https://content.nuxtjs.org/)
 
 ### Deployment
 
