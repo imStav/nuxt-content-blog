@@ -1,14 +1,15 @@
 <template>
   <div>
-    <div class="flex justify-center border border-b">
+    <nav class="flex justify-center border border-b">
       <ContentNavigation v-slot="{ navigation }">
-        <ul>
-          <li v-for="link of navigation" :key="link._path">
+        <ul class="flex flex-row">
+          <li 
+            v-for="link of navigation" :key="link._path" class="text-xl mx-2 my-4">
             <NuxtLink :to="link._path">{{ link.title }}</NuxtLink>
           </li>
         </ul>
       </ContentNavigation>
-    </div>
+    </nav>
 
     <NuxtPage />
   </div>
