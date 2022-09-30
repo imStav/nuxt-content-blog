@@ -7,7 +7,12 @@
         and their front-matter data (title, date...)
       -->
       <ContentDoc v-slot="{ doc }">
-        <h1 class="bg-slate-100 dark:bg-neutral-800 w-fit rounded-full px-4 py-1">{{ doc.title }}</h1>
+        <h1 class="text-4xl font-bold">{{ doc.title }}</h1>
+        <div class="flex flex-row">
+          <p>{{ doc.author }}</p>
+          <p class="mx-4">{{ doc.date }}</p>
+        </div>
+        <p class="opacity-70 italic">{{ doc.description }}</p>
         <ContentRenderer :value="doc" class="my-8" />
       </ContentDoc>
 
