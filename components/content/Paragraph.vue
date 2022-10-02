@@ -1,5 +1,5 @@
 <template>
-    <div>
-        <p class="my-8"><slot /></p>
+    <div class="my-8">
+        <p><slot /></p>
     </div>
 </template>
