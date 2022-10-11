@@ -1,5 +1,5 @@
 <template>
-  <main class="min-h-screen bg-slate-200 text-slate-700 dark:bg-neutral-900 dark:text-slate-400">
+  <main class="min-h-screen bg-slate-200 text-slate-700 dark:bg-black dark:text-slate-400">
     <div class="p-16 md:w-2/3 xl:w-1/2 mx-auto">
 
       <!-- 
