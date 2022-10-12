@@ -15,3 +15,7 @@ A way to practice and disover Nuxt Content by building a blog template.
 
 - 📚 [Nuxt Content documentation](https://content.nuxtjs.org/)
 - 🛰️ [Deployment documentation](https://v3.nuxtjs.org/docs/deployment)
+
+## 📣 Coming soon!
+
+> Nuxt Image should be soon implemented!
