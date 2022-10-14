@@ -1,6 +1,6 @@
 <template>
   <main class="min-h-screen bg-slate-200 text-slate-700 dark:bg-black dark:text-slate-400">
-    <div class="grid gap-10 place-content-center p-16 md:grid-cols-2 lg:w-2/3 xl:grid-cols-3 xl:w-2/3 mx-auto">
+    <div class="grid gap-10 place-content-center p-8 md:grid-cols-2 lg:w-2/3 xl:grid-cols-3 xl:w-2/3 mx-auto">
 
       <!-- 
         Generates a card for each article contained in the 'blog' subfolder 
