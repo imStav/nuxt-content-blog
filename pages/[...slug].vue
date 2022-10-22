@@ -1,6 +1,6 @@
 <template>
-  <main class="min-h-screen bg-slate-100 text-slate-700 dark:bg-black dark:text-slate-400">
-    <div class="p-8 md:w-2/3 xl:w-1/3 mx-auto">
+  <main class="min-h-screen bg-slate-50 text-slate-700 dark:bg-black dark:text-slate-400">
+    <div class="p-8 sm:w-4/5 md:w-2/3 lg:w-2/4 xl:w-2/4 2xl:w-1/3 mx-auto">
 
       <!-- 
         Allows to access and render markdown files content  
