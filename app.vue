@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="flex justify-center bg-slate-50 text-slate-700 dark:bg-black dark:text-slate-400 sticky top-0 z-10">
+    <nav class="flex justify-center bg-white text-slate-700 dark:bg-black dark:text-slate-400 sticky top-0 z-10">
 
       <!-- Enables and displays dynamics navigation links -->
       <ContentNavigation v-slot="{ navigation }">
