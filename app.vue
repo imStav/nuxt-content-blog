@@ -1,11 +1,11 @@
 <template>
   <div>
-    <nav class="flex justify-center bg-white text-slate-700 dark:bg-black dark:text-slate-400 sticky top-0 z-10">
+    <nav class="navbar">
 
       <!-- Enables and displays dynamics navigation links -->
       <ContentNavigation v-slot="{ navigation }">
         <ul class="flex flex-row">
-          <li v-for="link of navigation" :key="link._path" class="text-xl mx-2 my-4 hover:text-black dark:hover:text-slate-200 duration-200">
+          <li v-for="link of navigation" :key="link._path" class="nav-links-effects text-xl mx-2 my-4">
             <NuxtLink :to="link._path">{{ link.title }}</NuxtLink>
           </li>
         </ul>
