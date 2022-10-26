@@ -12,6 +12,11 @@ A Nuxt Content blog template.
 
 *Find more information in the `package.json` file*
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="blog-screenshot-dark.png">
+  <img alt="Blog's section preview in light and dark color mode." src="blog-screenshot-light.png">
+</picture>
+
 ## Documentations
 
 - 📚 [Nuxt Content documentation](https://content.nuxtjs.org/)
