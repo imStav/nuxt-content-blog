@@ -26,7 +26,3 @@ A Nuxt Content blog template.
 ## About Tailwind Typograhpy
 
 Tailwind Typography is available. It means that you can get rid of the tailwind classes that are used in the project to just use tailwind typography #prose.
-
-## 📣 Coming soon!
-
-> Nuxt Image should be soon implemented!
