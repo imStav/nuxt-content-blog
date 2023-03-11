@@ -1,6 +1,11 @@
-# The project
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/blog-screenshot-dark.PNG">
+  <img alt="Blog's section preview in light and dark color mode." src="assets/screenshots/blog-screenshot-light.PNG">
+</picture>
 
-A Nuxt Content blog template.
+# Nuxt Content Blog
+
+> A Nuxt Content blog template. Based on `Nuxt 3`, `Nuxt Content` module (v2), `Tailwind CSS` & `Tailwind Typography`
 
 ## Technologies
 
@@ -12,17 +17,8 @@ A Nuxt Content blog template.
 
 *Find more information in the `package.json` file*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/blog-screenshot-dark.PNG">
-  <img alt="Blog's section preview in light and dark color mode." src="assets/screenshots/blog-screenshot-light.PNG">
-</picture>
-
 ## Documentations
 
-- 📚 [Nuxt Content documentation](https://content.nuxtjs.org/)
-- 🛰️ [Deployment documentation](https://v3.nuxtjs.org/docs/deployment)
-- 🖋️ [Tailwind typography documentation](https://tailwindcss.com/docs/typography-plugin)
-
-## About Tailwind Typograhpy
-
-Tailwind Typography is available. It means that you can get rid of the tailwind classes that are used in the project to just use tailwind typography #prose.
+- 📚 Check out the Nuxt Content documentation for a better understanding here @ [content.nuxtjs.org](https://content.nuxtjs.org/)
+- 🖋️ Find the Tailwind Typography documentation @ [tailwindcss.com/docs/typography-plugin](https://tailwindcss.com/docs/typography-plugin)
+- 🛰️ For more information on deployment @ [v3.nuxtjs.org/docs/deployment](https://v3.nuxtjs.org/docs/deployment)
